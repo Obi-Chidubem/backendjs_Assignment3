@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Obi-Chidubem/backendjs_Assignment3/issues"
   },
-  "homepage": "https://github.com/Obi-Chidubem/backendjs_Assignment3#readme"
+  "homepage": "https://github.com/Obi-Chidubem/backendjs_Assignment3#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
