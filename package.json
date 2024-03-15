@@ -1,0 +1,19 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "Assignment 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Obi-Chidubem/backendjs_Assignment3.git"
+  },
+  "author": "Obi Chidubem Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Obi-Chidubem/backendjs_Assignment3/issues"
+  },
+  "homepage": "https://github.com/Obi-Chidubem/backendjs_Assignment3#readme"
+}
